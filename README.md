@@ -1,4 +1,4 @@
-# Hello, I'm sheegull! <img src="https://raw.githubusercontent.com/sheegulls/sheegulls/master/wave.gif" width="30px" height="30px" />
+# Hello, I'm sheegull <img src="https://raw.githubusercontent.com/sheegulls/sheegulls/master/wave.gif" width="30px" height="30px" />
 　
 ## :chart_with_upwards_trend: GitHub Stats
 
