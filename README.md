@@ -17,4 +17,4 @@
 [![My Skills](https://skillicons.dev/icons?i=go,rust,solidity,ts,vite,deno,threejs,tailwind,mysql,flutter,wasm,githubactions,docker,gcp,azure)](https://github.com/sheegull)
 
 ## :space_invader: Hobby !!
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,pr,ae,blender,bots)](https://github.com/sheegull)
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,ps,ai,pr,ae,blender,bots)](https://github.com/sheegull)
