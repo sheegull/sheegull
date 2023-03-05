@@ -11,7 +11,7 @@
 
 　
 ## :star2: Favorite Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,neovim,html,css,js,react,nextjs,vite,tailwind,mongodb,firebase,py,django,aws)](https://github.com/sheegull)
+[![My Skills](https://skillicons.dev/icons?i=linux,neovim,html,css,js,react,nextjs,vite,materialui,tailwind,mongodb,firebase,py,django,aws)](https://github.com/sheegull)
 
 ## :four_leaf_clover: Learning . . .
 [![My Skills](https://skillicons.dev/icons?i=go,rust,solidity,ts,deno,threejs,mysql,flutter,wasm,githubactions,docker,gcp,azure)](https://github.com/sheegull)
