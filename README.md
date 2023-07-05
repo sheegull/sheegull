@@ -8,8 +8,12 @@ I'm learning the skills necessary to become a backend engineer!!
 <br>
 ## :footprints: Portfolio
 [SNS 3.0](https://github.com/sheegull/Social-Network-3.0)
+
+[Background (Wantedly Page)](https://www.wantedly.com/id/sheegull)
 <br>
 <br>
+<!--![snek go brr](https://raw.githubusercontent.com/sheegull/sheegull/snek/snek-light.svg#gh-light-mode-only)
+![snek go brr](https://raw.githubusercontent.com/sheegull/sheegull/snek/snek-dark.svg#gh-dark-mode-only)-->
 
 ## :bar_chart: Status
 
