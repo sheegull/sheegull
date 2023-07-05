@@ -20,6 +20,7 @@ Please feel free to explore my GitHub repositories and contact me with any quest
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=sheegull&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sheegull&theme=discord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 　
 ## :star2: Favorite Tools
 [![My Skills](https://skillicons.dev/icons?i=linux,neovim,html,css,js,react,nextjs,vite,materialui,tailwind,mongodb,firebase,py,django,aws)](https://github.com/sheegull)
