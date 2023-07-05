@@ -23,10 +23,10 @@ Please feel free to explore my GitHub repositories and contact me with any quest
 [![trophy](https://github-profile-trophy.vercel.app/?username=sheegull&theme=discord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 　
 ## :star2: Favorite Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,neovim,html,css,js,react,nextjs,vite,materialui,tailwind,mongodb,firebase,py,django,aws)](https://github.com/sheegull)
+[![My Skills](https://skillicons.dev/icons?i=linux,js,react,vite,tailwind,mongodb,firebase,go)](https://github.com/sheegull)
 
 ## :four_leaf_clover: Learning . . .
-[![My Skills](https://skillicons.dev/icons?i=go,rust,solidity,ts,deno,threejs,mysql,flutter,wasm,githubactions,docker,gcp,azure)](https://github.com/sheegull)
+[![My Skills](https://skillicons.dev/icons?i=linux,neovim,html,css,js,ts,react,nextjs,vite,materialui,tailwind,mongodb,firebase,ruby,rails,py,django,go,rust,solidity,deno,threejs,mysql,flutter,wasm,githubactions,docker,aws,gcp,azure)](https://github.com/sheegull)
 
 ## :space_invader: Hobby !!
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,ps,ai,pr,ae,blender,bots)](https://github.com/sheegull)
