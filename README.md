@@ -4,7 +4,7 @@
 
 I'm currently taking a break from Doshisha University.
     
-I'm currently learning the skills necessary to become a backend engineer!!
+I'm learning the skills necessary to become a backend engineer!!
 <br>
 ## :footprints: Portfolio
 [SNS 3.0](https://github.com/sheegull/Social-Network-3.0)
