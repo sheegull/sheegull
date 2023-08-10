@@ -27,7 +27,7 @@ I'm learning the skills necessary to become a backend engineer!!
 <br>
  
 ## :star2: Favorite Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,js,react,vite,tailwind,mongodb,firebase,go)](https://github.com/sheegull)
+[![My Skills](https://skillicons.dev/icons?i=linux,js,ts,react,vite,tailwind,mongodb,firebase,ruby,rails,go)](https://github.com/sheegull)
 
 ## :four_leaf_clover: Learning . . .
 [![My Skills](https://skillicons.dev/icons?i=linux,neovim,html,css,js,ts,react,nextjs,vite,materialui,tailwind,mongodb,firebase,ruby,rails,py,django,go,rust,solidity,deno,threejs,mysql,flutter,wasm,githubactions,docker,aws,gcp,azure)](https://github.com/sheegull)
