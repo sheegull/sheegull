@@ -2,7 +2,7 @@
 
 ## :mechanical_arm: About Me
     
-I'm learning the skills necessary to become a backend engineer!!
+I'm Nation Architect!!
 <br>
 ## :footprints: Portfolio
 [SNS 3.0](https://github.com/sheegull/Social-Network-3.0)
