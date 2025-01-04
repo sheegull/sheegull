@@ -1,8 +1,6 @@
-# Hello, I'm sheegull <img src="https://raw.githubusercontent.com/sheegull/sheegull/main/wave.gif" width="30px" height="30px" />
+# Hello, I'm YOGO <img src="https://raw.githubusercontent.com/sheegull/sheegull/main/wave.gif" width="30px" height="30px" />
 
 ## :mechanical_arm: About Me
-
-I'm currently taking a break from Doshisha University.
     
 I'm learning the skills necessary to become a backend engineer!!
 <br>
