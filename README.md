@@ -2,7 +2,7 @@
 
 ## :mechanical_arm: About Me
     
-I'm the ātisuto 🌊🪭🇯🇵
+I'm the ātisuto 🌊 🪭 🇯🇵
 <br>
 ## :footprints: Portfolio
 [SNS 3.0](https://github.com/sheegull/Social-Network-3.0)
