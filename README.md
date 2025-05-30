@@ -2,14 +2,14 @@
 
 ## :mechanical_arm: About Me
     
-I'm the ātisuto 🌊 🪭 🇯🇵
+I'm the ātisuto 🇯🇵
 <br>
 ## :footprints: Portfolio
 [SNS 3.0](https://github.com/sheegull/Social-Network-3.0)
 
-[Background (Wantedly Page)](https://www.wantedly.com/id/sheegull)
+<!-- [Background (Wantedly Page)](https://www.wantedly.com/id/sheegull)
 <br>
-<br>
+<br> -->
 <!--![snek go brr](https://raw.githubusercontent.com/sheegull/sheegull/snek/snek-light.svg#gh-light-mode-only)
 ![snek go brr](https://raw.githubusercontent.com/sheegull/sheegull/snek/snek-dark.svg#gh-dark-mode-only)-->
 
@@ -25,11 +25,11 @@ I'm the ātisuto 🌊 🪭 🇯🇵
 <br>
  
 ## :star2: Favorite Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,js,ts,react,vite,tailwind,mongodb,firebase,ruby,rails,go)](https://github.com/sheegull)
+[![My Skills](https://skillicons.dev/icons?i=linux,neovim,py,js,ts,react,vite,nextjs,tailwind,mongodb,supabase,aws,figma)](https://github.com/sheegull)
 
 ## :four_leaf_clover: Learning . . .
-[![My Skills](https://skillicons.dev/icons?i=linux,neovim,html,css,js,ts,react,nextjs,vite,materialui,tailwind,mongodb,firebase,ruby,rails,py,django,go,rust,solidity,deno,threejs,mysql,flutter,wasm,githubactions,docker,aws,gcp,azure)](https://github.com/sheegull)
+[![My Skills](https://skillicons.dev/icons?i=materialui,firebase,django,go,rust,solidity,deno,threejs,mysql,wasm,githubactions,docker,gcp,azure)](https://github.com/sheegull)
 
 ## :space_invader: Hobby !!
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,ps,ai,pr,ae,discord,bots)](https://github.com/sheegull)
+[![My Skills](https://skillicons.dev/icons?i=xd,ps,ai,pr,ae,discord,bots)](https://github.com/sheegull)
 
